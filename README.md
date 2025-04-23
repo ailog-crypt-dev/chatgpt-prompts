@@ -24,6 +24,14 @@
 ---
 
 ## 📂 構成（予定）
+chatgpt-prompts/
+├─ README.md
+├─ basic/
+│   └─ prompts.md
+├─ tools/
+│   └─ summarize.py
+
+---
 
 ## 👤 作成者
 
